@@ -371,22 +371,16 @@ Dow Inc. 매출과 순이익 추세를 전년 대비 증감률과 함께 알려�
 >
 > 👉 [**미리 준비된 Deep Research 열기**](https://vertexaisearch.cloud.google.com/home/cid/92367ba5-ba71-46b3-bd6e-0ad2537c886a/r/share/6f7a1aea-c0d8-42bf-8cd4-8a588519b609?hl=ko) -->
 
-**③ Idea Generation** — 주제를 주면 아이디어를 다량으로 만들고 **서로 겨루게해 순위까지** 매겨줍니다.
+> 📢 **참고 안내**: 기존 퍼블릭 프리뷰였던 별도의 'Idea Generation' 에이전트는 2026년 7월 14일 주부터 제외되었습니다. 대신 일반적인 브레인스토밍이나 창의적 사고 작업은 **Gemini Enterprise 앱 어시스턴트(메인 채팅)**와 직접 대화하며 훨씬 자유롭게 진행할 수 있습니다.
+
+**③ 아이디어 브레인스토밍** — Gemini Enterprise 어시스턴트에게 주제와 조건을 주어 아이디어를 다각도로 구상하고 비교·구체화합니다.
 
 ```
-사내 직원 생산성을 높일 AI 에이전트 아이디어를 제안해줘.
-기준: 2주 안에 시범 적용 가능하고, 기존 사내 시스템과 잘 연동할 수 있을 것.
+우리 화학/소재 생산성을 높일 AI 에이전트 아이디어를 제안해줘.
+기준: 2주 안에 시범 적용 가능하고, 기존 사내 시스템 및 데이터스토어와 연동할 수 있을 것.
 ```
 
-<!-- > 💡 무작위 나열이 아니라 '어떻게 발상할지' 계획(Idea Map)을 먼저 세우고, 여러 아이디어를 경쟁시켜 가장 좋은 걸 골라줍니다. (아직 프리뷰라 영어로 진행될 수 있어요.)
-
-<img src="images/05-idea-generation-plan.png" alt="Idea Generation 아이디어 탐색 계획" style="max-width:100%;border:1px solid #E2E8F0;border-radius:8px;margin:.6em 0"> -->
-
-*▲ Idea Generation도 '아이디어 탐색 계획'을 먼저 제안합니다. 확인 후 '세션 시작'을 누르면 탐색이 시작됩니다.*
-
-> 🔗 **미리 만들어 둔 Idea Generation 결과 바로 보기.** Idea Generation은 아이디어 생성에 시간이 걸려서, 위 아이디어 생성 결과를 준비했습니다. 아래 링크로 결과를 바로 확인하세요.
->
-> 👉 [**미리 준비된 Idea Generation 열기**](https://vertexaisearch.cloud.google.com/global/home/cid/92367ba5-ba71-46b3-bd6e-0ad2537c886a/r/share/73a48142-6f4a-4a8f-91c4-1c28967c3eed)
+> 💡 어시스턴트에게 구체적인 평가 기준(기한, 시스템 연동 등)을 제시하고 질의하면, 브레인스토밍부터 실행 방안 구체화까지 대화로 빠르게 아이디어를 정제할 수 있습니다.
 
 
 
