@@ -257,7 +257,7 @@ Gemini Enterprise는 여러분이 AI 시대를 향해 나아갈 수 있도록 �
 | `get_financial_trend` | 연간 매출·순이익 + YoY | `api/xbrl/companyconcept/…` |
 
 > 위험도 점수·YoY는 원본 공시에 없는 **파생 지표** — MCP 서버가 계산.
-파생 지표 계산 알고리즘 코드 참고(https://github.com/hayleyshim/ge-workshop/blob/main/mcp-server-sec/main.py)
+파생 지표 계산 알고리즘 코드 참고(https://github.com/hayleyshim/ge-workshop-v2/blob/main/mcp-server-sec/main.py)
 
 </details>
 

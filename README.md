@@ -14,19 +14,19 @@ ge-workshop-handson/
 
 ## GitHub Pages 배포 (5분)
 
-1. GitHub에 **공개(public) 저장소** 생성 (예: `ge-workshop`).
-2. 이 폴더의 4개 파일을 저장소 루트에 push:
+1. GitHub에 **공개(public) 저장소** 생성 (예: `ge-workshop-v2`).
+2. 이 폴더의 파일들을 저장소 루트에 push:
    ```bash
    cd ge-workshop-handson
    git init && git add . && git commit -m "handson page"
    git branch -M main
-   git remote add origin https://github.com/<USER>/ge-workshop.git
+   git remote add origin https://github.com/<USER>/ge-workshop-v2.git
    git push -u origin main
    ```
 3. 저장소 **Settings → Pages** → *Build and deployment* → Source: **Deploy from a branch** → Branch: **main / (root)** → Save.
 4. 1~2분 후 발행 URL 확인:
    ```
-   https://<USER>.github.io/ge-workshop/
+   https://<USER>.github.io/ge-workshop-v2/
    ```
 5. 이 URL을 워크샵 당일 채팅창/슬라이드로 공유하세요. (짧게 만들려면 `bit.ly` 등 단축 URL 사용)
 
@@ -41,6 +41,7 @@ python3 -m http.server 8000
 
 ## 커스터마이징
 - **내용**: `handson.md` 편집 (프롬프트는 ```` ``` ```` 코드 블록 안에 두면 복사 버튼이 붙음)
-- **색/폰트**: `index.html` 상단 `<style>`의 `:root` 변수 (발표자료 팔레트와 동일: 네이비 `#0B2447`, 라이트블루 `#A5D7E8`)
+- **색/폰트**: `index.html` 상단 `<style>`의 `:root` 변수
 - **제목/날짜**: `index.html`의 `<header class="top">`
+
 # ge-workshop-v2
