@@ -345,7 +345,7 @@ Gemini Enterprise는 여러분이 AI 시대를 향해 나아갈 수 있도록 �
 
 > 🔗 **미리 만들어 둔 노트북으로 바로 보기.** NotebookLM은 자료 분석에 시간이 걸려서, 위 회의록 3건을 미리 넣어 분석해 둔 노트북을 준비했습니다. 아래 링크로 결과(요약·출처 인용·오디오 개요)를 바로 확인하세요.
 >
-> 👉 [**미리 준비된 NotebookLM 노트북 열기**](https://vertexaisearch.cloud.google.com/global/home/cid/92367ba5-ba71-46b3-bd6e-0ad2537c886a/r/notebook/41ed07b9-b18e-49c0-a367-dc85e20cf395)
+> 👉 [**미리 준비된 NotebookLM 노트북 열기**](https://vertexaisearch.cloud.google.com/global/home/cid/92367ba5-ba71-46b3-bd6e-0ad2537c886a/r/notebook/452512d7-017c-4ba6-8746-275d488d96b2)
 
 > 세 건의 회의록을 넣고 위처럼 물으면, **결정사항과 미완료 액션아이템을 담당자·기한과 함께** 정리하고 **어느 회의록이 근거인지 출처(인용)**까지 보여줍니다. 그다음 버튼 하나로 **두 진행자가 이 내용을 대화로 풀어주는 팟캐스트(오디오 개요)** 까지 생성되는 걸 보여드릴게요.
 
@@ -638,7 +638,7 @@ Drive 폴더(미팅 브리프 2026)에 회사별로 저장
 >
 > 제목·굵기 같은 서식이 그대로 살아 변환됩니다. *(Gemini Enterprise의 Drive 커넥터는 표준 액션상 '파일 업로드'만 지원해, 에이전트가 직접 .docx나 Google Docs 문서를 만들지는 않습니다. 문서 생성이 꼭 필요하면 회사에 돌아가 IT팀과 커스텀 액션으로 확장할 수 있어요.)*
 
-<img src="images/22-new-agent-drive2-update.png" alt="사내 지식에서 찾아 출처와 함께 답하는 예시" style="max-width:100%;border:1px solid #E2E8F0;border-radius:8px;margin:.6em 0">
+<!-- <img src="images/22-new-agent-drive2-update.png" alt="사내 지식에서 찾아 출처와 함께 답하는 예시" style="max-width:100%;border:1px solid #E2E8F0;border-radius:8px;margin:.6em 0"> -->
 
 > **결과** — *"사용자 Gmail 계정의 캘린더 일정에 등록된 회사들과의 미팅이 자동으로 인식돼서 각 회사를 기업 공시로 분석한 정리본이 Drive에 저장됐어."* 커넥터를 묶으면 이렇게 **하나의 흐름**(workflow)가 만들어집니다.
 
