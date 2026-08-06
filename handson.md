@@ -277,7 +277,7 @@ Gemini Enterprise는 여러분이 AI 시대를 향해 나아갈 수 있도록 �
 테슬라 최근 90일 공시를 날짜, 유형과 함께 알려줘.
 ```
 
-> 💡 테슬라(TSLA) 대신 엔비디아(NVDA), 듀퐁(DD), 애플(AAPL) 등 검토하려는 글로벌 상장사를 넣으세요.
+> 💡 테슬라(TSLA) 대신 엔비디아(NVDA), 듀퐁(DD), 애플(AAPL) 등 검토하려는 글로벌 상장사를 넣어보세요.
 > 비상장·미국 외 미등록 기업은 조회되지 않습니다. 첫 호출은 5~10초 느릴 수 있어요.
 <img src="images/13-custom_mcp_server.png" alt="Custom MCP Server" style="max-width:100%;border:1px solid #E2E8F0;border-radius:8px;margin:.6em 0">
 
@@ -613,7 +613,7 @@ Google Calendar의 외부 미팅을 기반으로 상대 회사에 대한 사전 
 Drive 폴더(미팅 브리프 2026)에 회사별로 저장
 * 브리프는 마크다운(.md) 파일로 저장한다.
 * 파일명은 한글을 쓰지 않고 영문·숫자·언더스코어만 사용한다.
-  (형식: {회사영문명}_briefing.md 예: Dow_briefing.md, DuPont_briefing.md, LGChem_briefing.md)
+  (형식: {회사영문명}_briefing.md 예: GM_briefing.md, DuPont_briefing.md, NovaTech_briefing.md)
 * 회사명이 한글뿐이면 영문 표기나 티커로 바꿔 파일명을 만든다. (예: 롯데케미칼 → LotteChem_briefing.md)
 * 문서 제목·본문의 한글은 그대로 두어도 된다. (파일명만 영문으로)
 # 최종 답변 형식
